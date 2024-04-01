@@ -23,6 +23,7 @@ Matrix Display and Classification Report for every model trained
 and the preprocessing steps you follow along with their proper justification. Also show the
 evaluation results before and after preprocessing steps.
 
+
 Task 2:
 
 In Today’s time, there is a intense competition in retail industry in understanding their customers better, especially their most profitable customer groups and the groups that have the biggest potential to become such and how to retain these groups.
